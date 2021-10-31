@@ -1,0 +1,30 @@
+
+/* rule-set #1: Everything within the body tag will have a blue background. */ body {
+    background-color : gray;
+}
+
+/* rule-set #1 */ 
+#number-one{
+    color: orange;
+}
+
+#margin-experiment1{
+    height: 40px; background: black;
+   border: 5px solid orange; margin: 0px 0px 0px 0px;
+}
+
+.margin{
+    font-family: 'Fruktur', cursive;
+} 
+
+.example1{
+    height: 150px; width: 50%;
+    background-color : yellow;
+}
+
+.border-style li:nth-child(3){ border-style : solid;
+
+}
+
+
+
